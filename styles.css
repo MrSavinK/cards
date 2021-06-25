@@ -37,7 +37,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
-  transition: all 0.5s ease-in-out;
+  transition: all 1.5s ease-in-out;
 }
 
 .slide h3 {
